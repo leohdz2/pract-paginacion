@@ -8,14 +8,16 @@
 
 body {
 	background: #e9e9e9;
-	color: #2e2e2e;
+	color: hsl(143, 90%, 36%);
 	font-family: Arial, helvetica, sans-serif;
+	font-weight: bolder;  
 }
 
 .contenedor {
 	width: 90%;
 	max-width: 1000px;
-	margin: auto; 
+	margin: auto;
+	background-color: #3299bb; /*agregue cambios de color y tipo de letra Leo */
 }
 
 h1 {
