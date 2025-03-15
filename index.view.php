@@ -10,7 +10,7 @@
 </head>
 <body>
 	<div class="contenedor">
-		<h1>Articulos</h1>
+		<h1>Articulos: Zapatos, Zapatillas, Tenis, sandalias</h1>
 		<section class="articulos">
 			<ul>
 				<?php foreach ($articulos as $articulo): ?>
